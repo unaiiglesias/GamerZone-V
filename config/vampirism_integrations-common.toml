@@ -1,0 +1,13 @@
+
+[Compatibility]
+
+	[Compatibility.tconstruct]
+		enable_compat_tconstruct = true
+
+	[Compatibility.vampirism]
+		disable_integrations_version_check = false
+		enable_compat_vampirism = true
+
+	[Compatibility.waila]
+		enable_compat_waila = true
+
