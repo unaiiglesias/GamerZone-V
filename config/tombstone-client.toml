@@ -68,7 +68,7 @@
 	#Allowed Values: DEFAULT, FORCE_NORMAL, FORCE_HALLOWEEN, FORCE_CHRISTMAS
 	grave_skin_rule = "DEFAULT"
 	#Display or not the messages of gain of points in knowledge of death [false/true|default:true]
-	display_knowledge_message = true
+	display_knowledge_message = false
 	#Fog density around the graves [NONE/LOW/NORMAL/HIGH|default:LOW]
 	#Allowed Values: NONE, LOW, NORMAL, HIGH
 	fog_density = "LOW"
